@@ -1,2 +1,2 @@
-Android Projects
+myProjects
 Android Basics Nanodegree by Google Projects
